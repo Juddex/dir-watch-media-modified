@@ -31,7 +31,7 @@
 #define S_VLC_SOURCE "vlc_source"
 #define S_PLAYLIST "playlist"
 #define S_VALUE "value"
-#define S_IMAGE_SOURCE "image_source"
+#define S_IMAGE_SOURCE "xObsAsyncImageSource"
 #define S_FILE "file"
 #define S_SORT_BY "sort_by"
 #define S_SCAN_INTERVAL "scan_interval"
